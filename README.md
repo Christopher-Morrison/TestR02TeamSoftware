@@ -1,2 +1,6 @@
-# TestR02TeamSoftware
-A test repo for use in class
+public class Test{
+public static void main()
+{
+Console.WriteLine("I do tests");
+}
+}
